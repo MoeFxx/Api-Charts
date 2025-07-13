@@ -10,7 +10,7 @@ This project provides a FastAPI service exposing two endpoints:
 ```bash
 python -m pip install --upgrade pip
 pip install -r requirements.txt
-playwright install --with-deps chromium
+playwright install chromium
 ```
 
 Run the server:
